@@ -1,0 +1,44 @@
+#header {
+	font-color: navy;
+	text-align: center;
+
+}
+
+.form-inline {
+	padding-left: 800px;
+}
+
+#enter {
+	padding-left: 375px;
+}
+
+.container {
+	border-top: 1px solid #000000;
+}
+
+#invitation{
+	text-align: center;
+	font-size: 36px;
+}
+
+.firstname {
+	width: 400px;
+	text-align: left;
+
+
+}
+
+.lastname {
+	width: 400px;
+	text-align: left;
+}
+
+.email {
+	width: 400px;
+	text-align: left;
+}
+
+.password {
+	width: 400px;
+	text-align: left;
+}
